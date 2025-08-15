@@ -1,0 +1,13 @@
+
+---
+
+ requirements.txt  
+
+```txt
+pandas>=1.0
+numpy>=1.18
+matplotlib>=3.0
+scikit-learn>=0.22
+faker>=37.5.3
+wordcloud>=1.8.2
+tqdm>=4.0
